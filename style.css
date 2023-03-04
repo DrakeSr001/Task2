@@ -1,0 +1,21 @@
+body{
+    background-image: url("tile.jpg");
+    background-size: cover;
+    background-color: black;
+    color: white
+}
+
+.card{
+background-color: #333;
+color: white;
+font-weight: bold;
+}
+
+i{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.none {
+    display: none;
+}
